@@ -36,7 +36,7 @@
         visibility: visible;
       }
     </style>
-  </head>
+  </headhkubgkivbguljk,l
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
