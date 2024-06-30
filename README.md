@@ -30,7 +30,7 @@
         top: 0;
         visibility: hidden;
         width: 100%;tdckfvkgbhlkjm.
-      }
+      gcutjfujyfgkj
 
       [show-background-image] #backgroundImage {
         visibility: visible;
