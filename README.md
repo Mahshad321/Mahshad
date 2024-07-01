@@ -29,7 +29,7 @@
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;tdckfvkgbhlkjm.
+        width: 100%;tdckfvkgbhlkjm.itdiykguklhjlokl
       gcutjfujyfgkj
 
       [show-background-image] #backgroundImage {
