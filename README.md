@@ -25,7 +25,7 @@
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;jtdjyfgkujhtntr
+        pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkm
         position: fixed;
         top: 0;
         visibility: hidden;
