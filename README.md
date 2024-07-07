@@ -38,7 +38,7 @@
     </style>
   </headhkubgkivbguljk,l
   <body>
-    <iframe id="backgroundImage" src=""></iframe>
+    <iframe id="backgroundImage" src=""></iframe>fjykfghuklihjlkl
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
