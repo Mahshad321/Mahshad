@@ -32,7 +32,7 @@
         width: 100%;tdckfvkgbhlkjm.itdiykguklhjlokl
       gcutjfujyfgkj
 
-      [show-background-image] #backgroundImage {
+      [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkj
         visibility: visible;
       }
     </style>
