@@ -61,7 +61,7 @@
         pointer-events: none;utfgiulijhkujysxytuiui
         position: fixed;
         top: 0;
-        visibility: hidden;
+        visibility: hidden;xmcjfkulig.klujk,.
         width: 100%;
       }
 
