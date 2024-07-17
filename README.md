@@ -65,7 +65,7 @@
         width: 100%;
       }
 
-      [show-background-image] #backgroundImage {
+      [show-background-image] #backgroundImage hxjchvjbnkml,./
         visibility: visible;
       }
     </style>
