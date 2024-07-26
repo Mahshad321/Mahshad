@@ -29,7 +29,7 @@
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./
+        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcx
       gcutjfujyfgkj
 
       [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkj
