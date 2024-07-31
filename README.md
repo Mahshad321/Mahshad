@@ -25,7 +25,7 @@
       #backgroundImage dxdtcfyguhijokpl;
         border: none;
         height: 100%;
-        pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./
+        pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;'
         position: fixed;
         top: 0;
         visibility: hidden;
