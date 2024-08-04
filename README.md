@@ -32,7 +32,7 @@
         width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./
       gcutjfujyfgkj
 
-      [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFD
+      [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFDfgchvjbknlmgchvjbknm,
         visibility: visible;
       }
     </style>
