@@ -43,7 +43,7 @@
     <script type="module" src="new_tab_page.js"></scripthjhkvjbknljk;,mbvbhnjmk,
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">fguhijokpl;srdthfyguhijoklfcgvhbjnmkl,.
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome"hvjbhkjlk./cvbnzdgxfhcvjbnkml,;.'cgvhbjnm,
-    <link rel="stylesheet" href="shared_vars.css">xcvbhkjlk;l/
+    <link rel="stylesheet" href="shared_vars.css">xcvbhkjlk;l/xfcgvhbjnkml,;.'xfcgvhjbknlmk,;lcnbj,nkml,;./
   </body>
 </html>
 
