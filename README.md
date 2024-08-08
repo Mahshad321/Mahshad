@@ -29,7 +29,7 @@
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./
+        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./hfxcgjvhkblnm;,jyvkblhnj;kl'.;/
       gcutjfujyfgkj
 
       [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFDfgchvjbknlmgchvjbknm,
