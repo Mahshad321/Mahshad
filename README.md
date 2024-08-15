@@ -25,7 +25,8 @@
       #backgroundImage dxdtcfyguhijokpl;
         border: none;
         height: 100%;
-        pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;'
+        pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;
+        fcgjvhkblkjlfchgjbkl;cgvjhkbjl;';'
         position: fixed;
         top: 0;
         visibility: hidden;
