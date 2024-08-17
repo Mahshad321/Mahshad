@@ -30,7 +30,7 @@
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./hfxcgjvhkblnm;,jyvkblhnj;kl'.;/xhcgjvhkbjlk;l';hjkl;'
+        width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./hfxcgjvhkblnm;,jyvkblhnj;kl'.;/xhcgjvhkbjlk;l';hjkl;'gnbhm,.l/;cvfbhjkl;'vfbgnhmj,k./
       gcutjfujyfgkj
 
       [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFDfgchvjbknlmgchvjbknm,
