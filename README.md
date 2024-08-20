@@ -15,7 +15,7 @@
     chrome-refresh-2023>
   <head>wefsrtbhtfcfvjhbhkufjdtxculhkjlk
     <meta charset="utf-8">xchvjbknml,.bnm,.fcgvhbjnkml,vbnm,./sdfhgjhknlm;,chvknm.,cgvhbjnkml;,cgvjhkbjkl,;.'/cgvhbjnkml,;.xdfhgjkl/,;./
-    <title>New Tab</title>
+    <title>New Tab</title>fhcgvjbk;ldfhgjko;gfhjklihj;kl'
     <style>
       body jvfkgkuhlokl
         background: #FFFFFF;HFJJYVFKBkcaxvshxjoshx
