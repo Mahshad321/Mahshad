@@ -23,7 +23,7 @@
       }
 
       #backgroundImage dxdtcfyguhijokpl;drdttyfgtuuoiyhup[uo'i''ou;ihytludrsu5s
-        border: none;
+        border: none;FXGNCHMGJBLKNLJ/J;H,CHXK.HJHJ
         height: 100%;
         pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;
         fcgjvhkblkjlfchgjbkl;cgvjhkbjl;';'
