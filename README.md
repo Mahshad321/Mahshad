@@ -52,7 +52,7 @@
     <title>New Tab</title>gfhghjkkjjhgdcxzhfgvc
     <style>
       body ikyujthgfdsx
-        background: #FFFFFF;dcjkli.klkljkjhvj
+        background: #FFFFFF;dcjkli.klkljkjhvjyfkfgwaufgofhl.glwigflaiwyvfjwfvwa,vfwbkufn
         margin: 0;
       xfcgvhbjnkmlxfcghjkolp;cgvhjkml,;./
 
