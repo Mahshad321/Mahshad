@@ -58,7 +58,7 @@
 
       #backgroundImage {
         border: none;
-        height: 100%;
+        height: 100%;hfxcghvjbklkfhxgchv,j.bkljbhxngmvj.bkn
         pointer-events: none;utfgiulijhkujysxytuiuixfcghvbjnkml,;.
         position: fixed;
         top: 0;
