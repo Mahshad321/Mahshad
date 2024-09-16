@@ -28,7 +28,7 @@
         pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;
         fcgjvhkblkjlfchgjbkl;cgvjhkbjl;';'dxfcgvhykbulhijodxyutcyiguih;oj
         position: fixed;
-        top: 0;jbhvgcfdshkugjhfbdhkujhgfbds
+        top: 0;jbhvgcfdshkugjhfbdhkujhgfbdsxfjgchkl;jlkgfxhcjvh,gkh./jlvbfxngcm,jb.knm,
         visibility: hidden;
         width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./hfxcgjvhkblnm;,jyvkblhnj;kl'.;/xhcgjvhkbjlk;l';hjkl;'gnbhm,.l/;cvfbhjkl;'vfbgnhmj,k./
       gcutjfujyfgkj
