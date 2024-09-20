@@ -33,7 +33,7 @@
         width: 100%;tdckfvkgbhlkjm.itdiykguklhjloklfdghjkl,.;cgvhbjnkm,./vbnkml,./bvcxghvjbknlmk,.dxfgcvhjbklm,;./hfxcgjvhkblnm;,jyvkblhnj;kl'.;/xhcgjvhkbjlk;l';hjkl;'gnbhm,.l/;cvfbhjkl;'vfbgnhmj,k./
       gcutjfujyfgkj
 
-      [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFDfgchvjbknlmgchvjbknm,
+      [show-background-image] #backgroundImage fhjmjhkjdxfhgcjhgkjDGCFVHBJKL;LKJHGFDfgchvjbknlmgchvjbknm,hgcjvhbjhklcgvhbjnkl
         visibility: visible;
       }
     </style>
