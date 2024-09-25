@@ -40,7 +40,7 @@
   </headhkubgkivbguljk,lyughjlk,mvsrtcuyvubinomk,l/fcgvhbjnkml,;.fcgvhjkml,;./srdgfhbjnkldfghjkml,;./ghfgcjfkh;j'kl[fxhcgjhkvjblk;nlm;,'./gdhfjgukhlijo;kplfsgrdhtfygkuhiljo;klxfhcgjvbkl;fzdgxhkjlk;hgkjl;
   <body>
     <iframe id="backgroundImage" src=""></iframe>fjykfghuklihjlklhxcvjbklm,./rdtfyguhijoghjkl
-    <ntp-app></ntp-app>
+    <ntp-app></ntp-app>sfdghjkltygujiokgftyuhiop
     <script type="module" src="new_tab_page.js"></scripthjhkvjbknljk;,mbvbhnjmk,
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">fguhijokpl;srdthfyguhijoklfcgvhbjnmkl,.
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome"hvjbhkjlk./cvbnzdgxfhcvjbnkml,;.'cgvhbjnm,
