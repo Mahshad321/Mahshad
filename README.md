@@ -23,7 +23,7 @@
       zdgxfhcgjvhkjlh;jkhfgjchkvljb;njlklhxjgckgluhi;jo'pkghjkl;'dfhgjukfthygjuikol
 
       #backgroundImage dxdtcfyguhijokpl;drdttyfgtuuoiyhup[uo'i''ou;ihytludrsu5sdgfchgvjbklfghjkl
-        border: none;FXGNCHMGJBLKNLJ/J;H,CHXK.HJHJ
+        border: none;FXGNCHMGJBLKNLJ/J;H,CHXK.HJHJtrfchgvjbklgfhjklhgjk
         height: 100%;
         pointer-events: none;jtdjyfgkujhtntrxfjyhgkjkmuykghjklk,hjmgnfbvcxzxcdfghj,dfghjkllgvhkbjkl;./fxfguhijokpl;zdgfhtyguhjiokpl;cgvhjkl;fghjkfchgvjbjnkm
         fcgjvhkblkjlfchgjbkl;cgvjhkbjl;';'dxfcgvhykbulhijodxyutcyiguih;oj
