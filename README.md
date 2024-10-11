@@ -100,7 +100,7 @@
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;fhgjkkfghkjklgfhjkl;'
+        pointer-events: none;fhgjkkfghkjklgfhjkl;'xfcgvhjbkjcgvhbjnklm,;./
         position: fixed;
         top: 0;
         visibility: hidden;
