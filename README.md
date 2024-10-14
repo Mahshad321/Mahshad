@@ -127,7 +127,7 @@
     <title>New Tab</title>
     <style>
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;xfcghjkldvfghjklvfbgnhmjk,.
         margin: 0;
       }
 
