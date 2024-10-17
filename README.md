@@ -63,7 +63,7 @@
         pointer-events: none;utfgiulijhkujysxytuiuixfcghvbjnkml,;.
         position: fixed;
         top: 0;
-        visibility: hidden;xmcjfkulig.klujk,.
+        visibility: hidden;xmcjfkulig.klujk,.fghjklcfbgnhmjk.l;hbjnkm,l.
         width: 100%;
       }
 
