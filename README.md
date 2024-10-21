@@ -67,7 +67,7 @@
         width: 100%;
       }
 
-      [show-background-image] #backgroundImage hxjchvjbnkml,./
+      [show-background-image] #backgroundImage hxjchvjbnkml,./ghjhkjlhjkl;'/
         visibility: visible;
       }
     </style>dtfygkuhlijklhfkgulhijokl;
