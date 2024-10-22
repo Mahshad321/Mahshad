@@ -60,7 +60,7 @@
       #backgroundImage {
         border: none;
         height: 100%;hfxcghvjbklkfhxgchv,j.bkljbhxngmvj.bkn
-        pointer-events: none;utfgiulijhkujysxytuiuixfcghvbjnkml,;.
+        pointer-events: none;utfgiulijhkujysxytuiuixfcghvbjnkml,;.dgfhgjkhkjhfjg,hk.l;l
         position: fixed;
         top: 0;
         visibility: hidden;xmcjfkulig.klujk,.fghjklcfbgnhmjk.l;hbjnkm,l.
