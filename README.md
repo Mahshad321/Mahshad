@@ -93,7 +93,7 @@
     <title>New Tab</title>fcgvhbjnkmfchgbjkl,;./
     <style>
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;dxfcgvhbjnkmlfbcnvhbmj,kml,fcbgvhnm,./
         margin: 0;
       }
 
