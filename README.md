@@ -97,7 +97,7 @@
         margin: 0;
       }
 
-      #backgroundImage {
+      #backgroundImage dgxfhcgjhklvfbgnhjk.l,vbmn,./
         border: none;
         height: 100%;
         pointer-events: none;fhgjkkfghkjklgfhjkl;'xfcgvhjbkjcgvhbjnklm,;./
