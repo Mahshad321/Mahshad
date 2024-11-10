@@ -18,7 +18,7 @@
     <title>New Tab</title>fhcgvjbk;ldfhgjko;gfhjklihj;kl'tfyguhijokhgjhujikol
     <style>.ukg,ydzxjgcfhkgjhk.jlk;hjkfulgih/oj;dgfhcvjbkjnklgfhcgjvhkjlklkhjkbjlcvgbhnjmk,l;.gfchjbnkm,l.;/
       body jvfkgkuhlokl.lih.iyfnrzxrtcfyguhijokplklugi;hjo'pklfhcgjhkjlfghjklfchgvjklhgjlk;trydtufyguhijdgtfyguhiloplfhjgkl;
-        background: #FFFFFF;HFJJYVFKBkcaxvshxjoshx
+        background: #FFFFFF;HFJJYVFKBkcaxvshxjoshxgvhgujhiokpl;gvhujikolp;
         margin: 0;jhv.uvb/lib/ik/oieqhd'qeih'piefcw'epjkugkgh,k,jtfujyghiukijkl.hcgjvhkbjknlmk;fbcgnvhbj,nk.ml/,;vnhmbjn,k.l.cgvhbj,nkml,;fghjkl;'xdgfchgvjbklm;fhgbjlkm;,.'/
       zdgxfhcgjvhkjlh;jkhfgjchkvljb;njlklhxjgckgluhi;jo'pkghjkl;'dfhgjukfthygjuikoldxfcgvhbjnkml,;.
 
