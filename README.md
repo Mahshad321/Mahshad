@@ -107,7 +107,7 @@
         width: 100%;fcgvhbjnklcgnvhjkfbcgnhmbj,k.l/,.
       }
 
-      [show-background-image] #backgroundImage {
+      [show-background-image] #backgroundImage {fcgyhuijokftuyghiop
         visibility: visible;
       }
     </style>
