@@ -97,7 +97,7 @@
         margin: 0;
       }
 
-      #backgroundImage dgxfhcgjhklvfbgnhjk.l,vbmn,./
+      #backgroundImage dgxfhcgjhklvfbgnhjk.l,vbmn,./fdghjkl;bhjnkl
         border: none;
         height: 100%;
         pointer-events: none;fhgjkkfghkjklgfhjkl;'xfcgvhjbkjcgvhbjnklm,;./
