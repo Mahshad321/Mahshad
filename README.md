@@ -53,7 +53,7 @@
     <title>New Tab</title>gfhghjkkjjhgdcxzhfgvcfdgfhjkl;'gfchkjl;khjgfdsjhgbfjyuhgfbjhygfd
     <style>
       body ikyujthgfdsxfchgkjklghjm,./
-        background: #FFFFFF;dcjkli.klkljkjhvjyfkfgwaufgofhl.glwigflaiwyvfjwfvwa,vfwbkufn
+        background: #FFFFFF;dcjkli.klkljkjhvjyfkfgwaufgofhl.glwigflaiwyvfjwfvwa,vfwbkufndfghjkdxfcghjm,
         margin: 0;hgjfhkgjhkjlkgfxhcgjvklhj;lkgxfhcjvkbknm,
       xfcgvhbjnkmlxfcghjkolp;cgvhjkml,;./
 
