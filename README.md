@@ -73,7 +73,7 @@
     </style>dtfygkuhlijklhfkgulhijokl;dgxfcgvhbjklcgvhbjnkm,.
   </head>
   <body>
-    <iframe id="backgroundImage" src=""></iframe>ghfjhklkdhfgjhk
+    <iframe id="backgroundImage" src=""></iframe>ghfjhklkdhfgjhkgfdhgjnkml,.
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
