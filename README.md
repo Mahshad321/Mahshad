@@ -39,7 +39,7 @@ ftgyhuijkolp;ghjkltfyguhijoktfyguhijkldfgjhbnkml,;.
     </style>hfjhgkjhkldghfyjgukhilo;gfchjklsdfghjkdfghjsdfghbjksdfghfdghjkfcgvhbjklm;,.?
   </headhkubgkivbguljk,lyughjlk,mvsrtcuyvubinomk,l/fcgvhbjnkml,;.fcgvhjkml,;./srdgfhbjnkldfghjkml,;./ghfgcjfkh;j'kl[fxhcgjhkvjblk;nlm;,'./gdhfjgukhlijo;kplfsgrdhtfygkuhiljo;klxfhcgjvbkl;fzdgxhkjlk;hgkjl;
   <body>drfghjkdfghjsdrtfgyhjdfghjdfghjkldxfcghjkdxfcgvhbn
-    <iframe id="backgroundImage" src=""></iframe>fjykfghuklihjlklhxcvjbklm,./rdtfyguhijoghjklxfcgvhbjkml,;./iyujyhgfbvdcnhgbfvcdx
+    <iframe id="backgroundImage" src=""></iframe>fjykfghuklihjlklhxcvjbklm,./rdtfyguhijoghjklxfcgvhbjkml,;./iyujyhgfbvdcnhgbfvcdxdfghjkl;fghjkl
     <ntp-app></ntp-app>sfdghjkltygujiokgftyuhiop
     <script type="module" src="new_tab_page.js"></scripthjhkvjbknljk;,mbvbhnjmk,
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">fguhijokpl;srdthfyguhijoklfcgvhbjnmkl,.fghjkmlbcgnvhmbj,nkml,.;/
